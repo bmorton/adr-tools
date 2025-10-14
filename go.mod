@@ -1,6 +1,6 @@
 module github.com/bmorton/adr-tools
 
-go 1.19
+go 1.23.0
 
 require (
 	github.com/google/go-github/v48 v48.0.0
@@ -17,5 +17,5 @@ require (
 	golang.org/x/crypto v0.35.0 // indirect
 	golang.org/x/net v0.21.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
